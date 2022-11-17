@@ -1,0 +1,18 @@
+.m_pageTitle {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.m_underline {
+    text-decoration: underline;
+}
+
+.m_projectImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    object-fit: fill ;
+    vertical-align: middle;
+    /*margin-bottom: 15px;*/
+}
