@@ -1,6 +1,4 @@
 .m_pageTitle {
-    padding-top: 50px;
-    padding-bottom: 50px;
 }
 
 .m_underline {
@@ -15,4 +13,17 @@
     object-fit: fill ;
     vertical-align: middle;
     /*margin-bottom: 15px;*/
+}
+
+.m_headerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 128px;
+    width: 50%;
+}
+
+.m_headerHR {
+    max-width: 500px;
+    padding-bottom: 25px;
 }
